@@ -1,4 +1,4 @@
-# mpc-activesuspensionsystem
+# mpc-active-suspensions-system
 A Model Predictive Control approach for active suspension control problem of a quarter car model
 Model-Predictive-Control
 
